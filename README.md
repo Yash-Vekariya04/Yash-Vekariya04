@@ -1,7 +1,33 @@
 ## Hi there 👋
 
+I am Yash, a tech enthusiast from India.
+
+I have some hobbies like Video-Editing(Yt channel), Music Production and playing games sometimes.
+
+I am periodically active on my social media pages (links in bio), also created a website with my WebDev skills( and a little help of AI 😋).
+
+---
+## Skills
+<ul>
+  <li> Python.</li>
+  <li> Video Editing (basic)</li>
+  <li> Pandas</li>
+  <li> Numpy</li>
+  <li> Machine learning (learning Phase)</li>
+  <li> Web technologies (Basic)</li>
+  <li> C++</li>
+</ul>
+
+---
+## Tools
+<ul>
+  <li> VS Code</li>
+  <li> Da Vinci (Video Editing)</li>
+  <li> Git - Github</li>
+  <li> AI (when i get stuck somewhere 😋)</li>
+</ul>
 <!--
-**Yash-Vekariya04/Yash-Vekariya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Yash-GVekariya/Yash-GVekariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
