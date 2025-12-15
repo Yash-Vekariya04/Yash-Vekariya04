@@ -16,6 +16,7 @@ I am periodically active on my social media pages (links in bio), also created a
   <li> Machine learning (learning Phase)</li>
   <li> Web technologies (Basic)</li>
   <li> C++</li>
+  <li> RAG anf Agentic AI</li>
 </ul>
 
 ---
