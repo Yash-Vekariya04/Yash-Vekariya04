@@ -16,14 +16,15 @@ I am periodically active on my social media pages (links in bio), also created a
   <li> Machine learning (learning Phase)</li>
   <li> Web technologies (Basic)</li>
   <li> C++</li>
-  <li> RAG anf Agentic AI</li>
+  <li> Generative AI (learning phase)</li>
 </ul>
 
 ---
 ## Tools
 <ul>
-  <li> VS Code</li>
-  <li> Da Vinci (Video Editing)</li>
+  <li> VS Code : Insiders</li>
+  <li> PyCharm</li>
+  <li> Da Vinci and Capcut(Video Editing)</li>
   <li> Git - Github</li>
   <li> AI (when i get stuck somewhere 😋)</li>
 </ul>
