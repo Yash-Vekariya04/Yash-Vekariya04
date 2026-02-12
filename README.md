@@ -1,4 +1,4 @@
-## Hi there 👋
+h## Hi there 👋
 
 I am Yash, a tech enthusiast from India.
 
@@ -20,7 +20,7 @@ I am periodically active on my social media pages (links in bio), also created a
 </ul>
 
 ---
-## Tools
+## Tools ⚒️
 <ul>
   <li> VS Code : Insiders</li>
   <li> PyCharm</li>
