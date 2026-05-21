@@ -1,4 +1,4 @@
-h## Hi there 👋
+## Hi there 👋
 
 I am Yash, a tech enthusiast from India.
 
