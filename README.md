@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Yash, a tech enthusiast from India.
+I am Yash, a tech enthusiast and a vibe-coder from India.
 
 I have some hobbies like Content Creation(Yt channel) and playing games sometimes.
 
