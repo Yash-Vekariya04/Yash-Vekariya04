@@ -2,7 +2,7 @@
 
 I am Yash, a tech enthusiast from India.
 
-I have some hobbies like Video-Editing(Yt channel), Music Production and playing games sometimes.
+I have some hobbies like Content Creation(Yt channel) and playing games sometimes.
 
 I am periodically active on my social media pages (links in bio), also created a website with my WebDev skills( and a little help of AI 😋).
 
@@ -10,7 +10,6 @@ I am periodically active on my social media pages (links in bio), also created a
 ## Skills
 <ul>
   <li> Python.</li>
-  <li> Video Editing (basic)</li>
   <li> Pandas</li>
   <li> Numpy</li>
   <li> Machine learning (learning Phase)</li>
@@ -24,7 +23,6 @@ I am periodically active on my social media pages (links in bio), also created a
 <ul>
   <li> VS Code : Insiders</li>
   <li> PyCharm</li>
-  <li> Da Vinci and Capcut(Video Editing)</li>
   <li> Git - Github</li>
   <li> AI (when i get stuck somewhere 😋)</li>
 </ul>
