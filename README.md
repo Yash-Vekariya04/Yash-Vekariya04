@@ -14,6 +14,7 @@ I am periodically active on my social media pages (links in bio), also created a
   <li> Numpy</li>
   <li> Machine learning (learning Phase)</li>
   <li> Web technologies (Basic)</li>
+  <li> NodeJS </li>
   <li> C++</li>
   <li> Generative AI (learning phase)</li>
 </ul>
